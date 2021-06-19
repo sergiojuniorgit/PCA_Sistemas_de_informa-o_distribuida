@@ -1,1 +1,1 @@
-PCA Sistemas de Informação Distribuida
+<h1 align="center">PCA Sistemas de Informação Distribuida</h1>
